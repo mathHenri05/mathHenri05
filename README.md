@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Candido👾
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/mathHenri05](https://www.linkedin.com/in/matheus-hcandido/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://github.com/mathHenri05](https://www.linkedin.com/in/matheus-hcandido/)](https://www.linkedin.com/in/matheus-hcandido/))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathHenri05&show_icons=true&theme=radical)
 
